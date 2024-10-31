@@ -1,0 +1,14 @@
+{
+    "name": "Hassan Shehzad",
+    "email": "Hassan@gmail.com",
+    "username": "Hassan",
+    "password": "12345678",
+    "age": "18",
+    "location": "pakistan"
+}
+
+{
+    "company":"AB/AI",
+    "position":"CEO",
+    "workLocation":"Dubai"
+}
